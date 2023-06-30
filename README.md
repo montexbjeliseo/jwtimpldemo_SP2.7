@@ -13,9 +13,11 @@ Este es un proyecto de ejemplo de como implementar JWT y Spring Security sin Sec
 * Crear/loguear un usuario usando postman:
     - Crear: /auth/register
     - Login: /auth/login
-    > '''json:
-    {
-      "username": "usuario",
-      "password": "clave"
-    }
+      ```json
+        {
+          "username": "usuario",
+          "password": "clave"
+        }
+      ```
+    
     
